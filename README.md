@@ -13,22 +13,22 @@ Our inspiration for ‘The Rizzenator 3000’ was reminiscing about the show, �
 
 
 # CHALLENGES:
-Security Issues: original extension used (great-site.net) on the website would be blocked by our Wifi providers as it was deemed “insecure”. 
-Lack of experience: We are both fairly new to using HTML, CSS and Javascript, thus implementing our ideas was a bit of a learning curve. 
+Security Issues: original extension used (great-site.net) on the website would be blocked by our Wifi providers as it was deemed “insecure”.\ 
+Lack of experience: We are both fairly new to using HTML, CSS and Javascript, thus implementing our ideas was a bit of a learning curve.\ 
 Unfamiliarity to Brainrot: Although we encounter brain rot through doomscrolling on social media, we don’t typically use brain rot terms in real life. Thus, implementing brain rot into our project didn’t come to us easily. 
 
 # ACCOMPLISHMENT 
-Implementation of Brainrot: using references and memes seen in social media into project 
+Implementation of Brainrot: using references and memes seen in social media into project\
 Website Building: being able to create and release a website within a short time frame and with limited experience 
 
 # WHAT WE LEARNED
-Improvement in the following languages: HTML, CSS, JavaScript 
-Research: Being able to effectively research in a topic we’re unfamiliar with (brain rot) in order to portray it in an authentic manner 
+Improvement in the following languages: HTML, CSS, JavaScript\ 
+Research: Being able to effectively research in a topic we’re unfamiliar with (brain rot) in order to portray it in an authentic manner\ 
 Patience: Through the challenges we’ve faced throughout the project, we were able to be level headed and continue to perservere 
 
 # What's next for The Rizzemetor 3000? 
-AI Chat Bot: Implement an AI chat feature so that users are able to roleplay what they would say to their crush in order to prevent embarrassing encounters 
-Pick up Line Post: Implement a feature where users are able to submit pick up lines to website 
+AI Chat Bot: Implement an AI chat feature so that users are able to roleplay what they would say to their crush in order to prevent embarrassing encounters\ 
+Pick up Line Post: Implement a feature where users are able to submit pick up lines to website\ 
 Subway Surfer Gameplay: Implement a subway surf gameplay so that players are able be focused while using the website 
 
 # BUILT WITH
