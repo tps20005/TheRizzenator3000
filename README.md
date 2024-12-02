@@ -1,7 +1,7 @@
 # TheRizzenator3000
 Get Rizzed up with The Rizzenator 3000, a free online generator of pick up lines to swoon your crush. 
 
-This project came to be by participating in the Brainrot Hackathon 2024 hosted by Audrey Chen (@/jia.seed). 
+This project came to be by participating in the Brainrot Hackathon 2024 hosted by Audrey Chen (@/jia.seed) from 11/27 to 12/1.
 
 # INSPIRATION:
 Our inspiration for ‘The Rizzenator 3000’ was reminiscing about the show, “Phineas and Ferb” and reflecting on our social anxiety. Thus, we wanted to find a way where we can create a fun and modern way for people to approach others, specifically people they have a crush on. With inspiration from Dr. Doof’s ability to name his inventions with ‘-nator’, ‘The Rizzenator 3000’ was born! 
