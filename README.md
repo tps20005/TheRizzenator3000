@@ -11,6 +11,7 @@ Our inspiration for ‘The Rizzenator 3000’ was reminiscing about the show, �
 
 # HOW WE BUILT IT:
 
+
 # CHALLENGES:
 Security Issues: original extension used (great-site.net) on the website would be blocked by our Wifi providers as it was deemed “insecure”. 
 Lack of experience: We are both fairly new to using HTML, CSS and Javascript, thus implementing our ideas was a bit of a learning curve. 
