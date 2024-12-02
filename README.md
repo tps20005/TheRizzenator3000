@@ -13,8 +13,8 @@ Our inspiration for ‘The Rizzenator 3000’ was reminiscing about the show, �
 
 
 # CHALLENGES:
-**Security Issues:** original extension used (great-site.net) on the website would be blocked by our Wifi providers as it was deemed “insecure”.\ 
-**Lack of experience:** We are both fairly new to using HTML, CSS and Javascript, thus implementing our ideas was a bit of a learning curve.\ 
+**Security Issues:** original extension used (great-site.net) on the website would be blocked by our Wifi providers as it was deemed “insecure”\ 
+**Lack of experience:** We are both fairly new to using HTML, CSS and Javascript, thus implementing our ideas was a bit of a learning curve\ 
 **Unfamiliarity to Brainrot:** Although we encounter brain rot through doomscrolling on social media, we don’t typically use brain rot terms in real life. Thus, implementing brain rot into our project didn’t come to us easily. 
 
 # ACCOMPLISHMENT 
