@@ -7,7 +7,7 @@ This project came to be by participating in the Brainrot Hackathon 2024 hosted b
 Our inspiration for ‘The Rizzenator 3000’ was reminiscing about the show, “Phineas and Ferb” and reflecting on our social anxiety. Thus, we wanted to find a way where we can create a fun and modern way for people to approach others, specifically people they have a crush on. With inspiration from Dr. Doof’s ability to name his inventions with ‘-nator’, ‘The Rizzenator 3000’ was born! 
 
 # WHAT IT DOES:
-‘The Rizzenator 3000’ generates different pick up lines when the user clicks on the “Get Rizz Now” button. As the user clicks the button, different pick up lines will appear. Also, a subway surfer game play starts playing so that the user is able to focus while going through the different pick up lines. 
+‘The Rizzenator 3000’ generates different pick up lines when the user clicks on the “Get Rizz Now” button. As the user clicks the button, different pick up lines will appear. 
 
 # HOW WE BUILT IT:
 
@@ -29,6 +29,7 @@ Patience: Through the challenges we’ve faced throughout the project, we were a
 # What's next for The Rizzemetor 3000? 
 AI Chat Bot: Implement an AI chat feature so that users are able to roleplay what they would say to their crush in order to prevent embarrassing encounters 
 Pick up Line Post: Implement a feature where users are able to submit pick up lines to website 
+Subway Surfer Gameplay: Implement a subway surf gameplay so that players are able be focused while using the website 
 
 # BUILT WITH
 HTML, CSS, JavaScript 
